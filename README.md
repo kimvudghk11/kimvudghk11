@@ -7,7 +7,7 @@
 단순히 기능을 구현하는 것을 넘어, **왜**를 고민하고 **시스템의 효율**을 높이는 구조를 설계합니다.
 
 - 🔭 **Focus:** 반복 업무 자동화, 백엔드 아키텍처, 실시간 데이터 처리
-- 🌱 **Learning:** TypeScript Migration, NestJS, System Design
+- 🌱 **Learning:** TypeScript Migration, NextJS, NestJS, System Design
 - 🤝 **Soft Skill:** 대학교 신문방송국 소속 조직 운영 리더십(방송국 실무국장), 명확한 문서화 기반 소통
 - 📧 **Contact:** kimbona1148@gmail.com
 
