@@ -37,7 +37,7 @@
 | :--- | :--- | :--- | :--- |
 | **⚡️ TestWeaver** | **1인 개발** | `Node.js` `React` | **API 테스트 자동화 도구 개발**<br>- 수동 테스트 시간 90% 단축<br>- Pairwise 알고리즘 구현으로 커버리지 최적화 |
 | **📡 Project-Signal** | **1인 개발** | `Node.js` `Socket.io` `Discord.js` | **실시간 시설 통합 제어 시스템**<br>- IP 대역 차단 문제를 Discord Bot으로 우회 해결<br>- 서버 종료 시 타이머 복구 로직(Persistence) 구현 |
-| **🍔 FoodThing** | **Team Leader** | `React` `Swagger` | **교내 음식 추천 커뮤니티**<br>- Swagger 기반 API 명세 조율로 데이터 정합성 100% 확보<br>- React 컴포넌트 재사용성 구조 설계 |
+| **🍔 FoodThing** | **Team Leader** | `React` `Swagger` | **음식 추천 커뮤니티**<br>- Swagger 기반 API 명세 조율로 데이터 정합성 100% 확보<br>- React 컴포넌트 재사용성 구조 설계 |
 | **📅 MoToDo** | **Team Leader** | `Node.js` `Express` | **동아리 일정 공유 서비스**<br>- 초보 팀원을 위한 API 명세 문서화 및 멘토링 주도<br>- Git Flow 전략 수립 및 협업 리딩 |
 | **🔋 EV-Project** | **Backend Lead** | `Spring Boot` `MariaDB` | **전기차 정보 통합 플랫폼**<br>- 비정형 데이터 정규화를 위한 DB 모델링 및 ERD 설계<br>- 외부 API 데이터 파편화 문제 해결 |
 
