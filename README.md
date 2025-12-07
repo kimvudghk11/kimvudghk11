@@ -28,7 +28,7 @@
 
 ## 🗂 Project Archive
 
-> **💡 더 자세한 트러블 슈팅과 개발 과정은 [Notion Archive]((https://historical-herring-cd2.notion.site/Project-Archive-2c20b9a6e86380e3ac0ce983a80dba96?source=copy_link))에서 확인하실 수 있습니다.**
+> **💡 더 자세한 트러블 슈팅과 개발 과정은 [Notion Archive](https://historical-herring-cd2.notion.site/Project-Archive-2c20b9a6e86380e3ac0ce983a80dba96?source=copy_link)에서 확인하실 수 있습니다.**
 
 | Project | Role | Tech Stack | Key Contribution (Summary) |
 | :--- | :--- | :--- | :--- |
