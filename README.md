@@ -1,6 +1,6 @@
 # 👋 Hello, World! I'm Pyeonghwa Kim
 
-### 🚀 Productivity-driven Developer | Full Stack (Node.js & React)
+### 🚀 Productivity-driven Developer
 > **"비효율을 자동화로 개선하고, 모호함을 문서로 해결합니다."**
 
 안녕하세요! 불편함을 기술로 해결할 때 가장 큰 희열을 느끼는 신입 개발자 **김평화**입니다.  
