@@ -9,7 +9,7 @@
 
 ## 🚀 Experience
 
-### **Loword (2026.01.23 ~ ing)**  
+### **[Loword]([https://github.com/사용자명/repo명](https://github.com/kimvudghk11/LowordInc-Backend/blob/main/README.md))**
 Backend Developer
 
 #### 🔗 Payment & External Integration (Bridge)
