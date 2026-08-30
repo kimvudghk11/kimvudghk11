@@ -9,7 +9,7 @@
 
 ## 🚀 Experience
 
-### **[Loword]((https://github.com/kimvudghk11/LowordInc-Backend/blob/main/README.md))**
+### **[Loword](https://github.com/kimvudghk11/LowordInc-Backend/blob/main/README.md)**
 Backend Developer
 
 #### 🔗 Payment & External Integration (Bridge)
