@@ -44,6 +44,7 @@
 ## 🏢 Experience
 
 ### [Loword](https://github.com/kimvudghk11/LowordInc-Backend/blob/main/README.md) · Backend Developer
+`2026.01.23 ~ 재직 중`
 
 - **결제 연동 (Bridge)** — 토스페이먼츠 결제 흐름 설계, 결제 상태 정합성 유지, 외부 API 장애 복구 구조
 - **메시징** — 카카오 알림톡(Shoong) 연동, 발송 서버 분리·비동기 처리, 실패 재시도
