@@ -15,7 +15,8 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white"/>
 <br/>
-<img src="https://img.shields.io/badge/AWS%20EC2%20·%20ECR%20·%20ECS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS%20EC2%20·%20ECS%20·%20ECR-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"/>
+<img src="https://img.shields.io/badge/CloudFront%20·%20ACM%20·%20Route%2053-8C4FFF?style=flat-square&logo=amazonwebservices&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
@@ -46,6 +47,8 @@
 ### [Loword](https://github.com/kimvudghk11/LowordInc-Backend/blob/main/README.md) · Backend Developer
 `2026.01.23 ~ 재직 중`
 
+- **AWS 인프라 운영** — 사용자 EC2 인스턴스 **2,500대** 관리, CloudFront · ACM · Route 53을 서비스 단위로 운영
+- **배포** — Docker 이미지 ECR 관리, ECS 기반 배포
 - **결제 연동 (Bridge)** — 토스페이먼츠 결제 흐름 설계, 결제 상태 정합성 유지, 외부 API 장애 복구 구조
 - **메시징** — 카카오 알림톡(Shoong) 연동, 발송 서버 분리·비동기 처리, 실패 재시도
 - **어필리에이트** — 파트너별 트래킹·정산 구조 설계, 도메인 단위 기능 분리
